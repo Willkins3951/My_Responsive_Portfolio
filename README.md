@@ -9,3 +9,4 @@ it also has auto write and auto deleate after certein interval of time using jav
 has  annimations  for  buttons using before nadd after concept
 up button which takes you seamlessly to the top of the page using js
 it has contact form which has been linked to form spree.com  in a way that when a client fills the form ,his /her details including the message is send directly to my email 
+has buttons : download cv when clicked it generates and downloads my cv, emil me which sends an email to me and hire me button with classy bg and  animations
